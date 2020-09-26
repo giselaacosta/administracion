@@ -1,6 +1,6 @@
 {
-  "appId": "io.ionic.starter",
-  "appName": "administracion",
+  "appId": "com.administraciondeusuarios.app",
+  "appName": "administraciondeusuarios",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
